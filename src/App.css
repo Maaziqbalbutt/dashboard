@@ -1,0 +1,7 @@
+/* Remove all default styling to let the dashboard control its own layout */
+#root {
+  margin: 0;
+  padding: 0;
+  max-width: 100%;
+  text-align: left;
+}
